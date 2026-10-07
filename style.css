@@ -1,0 +1,139 @@
+.profile{
+    background-color: rgb(236, 243, 248);
+    text-align: center;
+    border-radius: 50px;
+    padding: 30px 20px;
+}
+.header-style{
+    background-color: #135683;
+    width: 70%;
+    border-radius: 15px;
+    padding: 30px;
+    margin: auto;
+    text-align: center;
+}
+.color-font{
+    color: white;
+}
+.header-style p{
+    color: rgb(196, 219, 254);
+    margin-bottom: 30px;
+}
+.border-link{
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 30px;
+    border: solid rgb(151, 214, 243) 1px;
+    margin: 10px;
+    background-color: rgba(255, 255, 255, 0.06);
+    text-align: center;
+}
+.container{
+    background-color: white;
+    width: 70%;
+    border-radius: 15px;
+    border: 10px;
+    padding: 30px;
+    margin: auto;
+    margin-top: 20px;
+}
+.h2-style {
+    text-align: left;
+    border-bottom: 1px solid #d6e6f5;
+    padding-bottom: 15px;
+    color:#176da7 ;
+    margin-bottom: 20px;
+    }
+.about-content{
+    text-align: center;
+}
+.my-photo{
+    float: left;
+    width: 150px;
+    border-radius: 50%;
+    border: 3px solid #dcecf7;
+}
+.text{
+    color: rgb(64, 83, 83);
+    text-align: left;
+    width:77%;
+    margin: auto;
+    margin-right: 50px;
+}
+.link-git{
+    text-decoration: none;
+    border-radius: 30px;
+    border: solid white 1px;
+    padding: 15px;
+    margin: auto;
+    margin-top: 2px;
+    background: #0875bc;
+    display: inline-block;    
+}
+span{
+    color:#176da7;
+}
+.text p{
+    color:rgb(64, 83, 83);
+}
+.skills p{
+    text-align: left;
+}
+.skills-content{
+    width: 100%;
+}
+.skills-item{
+    background-color: rgb(236, 243, 248);
+    width: 17%;
+    text-align: left;
+    border-radius: 15px;
+    border: 2px rgb(205, 240, 241) solid;
+    padding: 10px;
+    margin: 20px;
+    float: left;
+}
+.experience-item{
+    background-color:rgb(236, 243, 248) ;
+    text-align: center;
+    padding: 20px;
+    border: 1px rgb(166, 211, 234) solid;
+    border-radius: 30px;
+}
+.techcrop{
+    padding-top: 10px;
+}
+.techcrop img{
+    width:100px;
+    border: 2px solid rgb(183, 220, 230);
+    border-radius: 20px;
+    background-color: white;
+    float: left;
+    padding: 3px;
+}
+.experience-text{
+    color: rgb(5, 6, 6);
+    text-align: left;
+    width:77%;
+    padding-left: 20px;
+    margin: auto;
+}
+.experience-text h5{
+    color: rgb(53, 107, 1c95);
+}
+.experience-item p{
+    text-align: left;
+}
+.experience-item2{
+    margin-top: 20px;
+}
+.contact{
+    text-align: left;
+    margin: auto;
+    margin-top: 20px;
+}
+.contact h2{
+    color: white;
+}
+.contact p{
+    color: white;
+}
